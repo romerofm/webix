@@ -1,0 +1,17 @@
+.top{
+    padding:10px;
+  }  
+  .top .a {
+    display:inline-block;
+    background-color:#ff0000;
+    color:black;
+    height:500px; 
+    width:300px;
+  }
+  .top .b {
+    display:inline-block;
+    color: rgb(255, 255, 255);
+    background-color:#000000;
+    height:300px; 
+    width:500px;
+  }
